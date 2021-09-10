@@ -47,11 +47,6 @@ export default {
         href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap',
         media: 'print',
         onload: `this.media='all'`
-      },
-      {
-        rel: 'netlify-identity-widget',
-        as: 'script',
-        href:"https://identity.netlify.com/v1/netlify-identity-widget.js"
       }
     ], // ? Imports the font 'Inter', can be optimized by the netlify plugin 'Subfont' by uncommenting it in `netlify.toml`
     noscript: [
