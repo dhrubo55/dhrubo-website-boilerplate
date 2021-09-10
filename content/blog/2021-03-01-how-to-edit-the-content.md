@@ -1,5 +1,5 @@
 ---
-createdAt: 2021-03-01
+createdAt: 2021-09-10T11:27:15.418Z
 title: How to edit the content
 description: And what to expect when running a repo-based CMS
 ---
