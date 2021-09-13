@@ -17,8 +17,8 @@
   </main>
 </template>
 <script>
+import IconLinkedin from '~/components/icons/linkedin.svg?inline'
 export default {
-  import IconLinkedin from '~/components/icons/linkedin.svg?inline'
   head() {
     return {
       script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
