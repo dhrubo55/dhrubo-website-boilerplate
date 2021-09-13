@@ -6,7 +6,7 @@
     </section>
     <section>
     <div>
-    <IconLinkedin class="icon text-primary-400"/>
+    <IconLinkedin class="icon" style="color: #777"/>
     </div>
     </section>
 
