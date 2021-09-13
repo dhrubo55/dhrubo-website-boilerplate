@@ -2,7 +2,12 @@
   <main>
     <section class="self-center flex flex-col flex-1 items-center justify-center">
       <h1 class="title text-center">Mohibul Hassan Chowdhury</h1>
-      <h3 class="subtitle text-center">Working as a Software Engineer</h2>
+      <h5 class="subtitle text-center">Working as a Software Engineer</h2>
+    </section>
+    <section>
+    <div>
+    <IconLinkedin class="icon"/>
+    </div>
     </section>
 
     <section class="mt-8">
@@ -13,10 +18,15 @@
 </template>
 <script>
 export default {
+  import IconLinkedin from '~/components/icons/linkedin.svg?inline'
   head() {
     return {
       script: [{ src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' }],
     };
   },
+
+  components: {
+    IconLinkedin
+  }
 }; 
 </script>
