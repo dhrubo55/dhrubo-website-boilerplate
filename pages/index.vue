@@ -3,6 +3,9 @@
     <section class="self-center flex flex-col flex-1 items-center justify-center">
       <h1 class="title text-center">Mohibul Hassan Chowdhury</h1>
       <h5 class="subtitle text-center">Working as a Software Engineer</h2>
+
+      <a class="btn" style="margin-top: 10px;">Resume</a>
+
       <IconLinkedin class="icon" style="color: #777"/>
     </section>
     <section class="mt-8">
