@@ -4,7 +4,7 @@
       <h1 class="title text-center">Mohibul Hassan Chowdhury</h1>
       <h5 class="subtitle text-center">Working as a Software Engineer</h5>
       <div class="self-center flex">
-      <IconLinkedin class="icon" style="color: #777"/>
+      <a class="btn block"><IconLinkedin class="icon" style="color: #777"/></a>
       </div>
     </section>
     <section class="mt-8">
